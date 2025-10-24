@@ -6,7 +6,7 @@ Arch Linux Chinese Community Repository
 For detailed information in Chinese, [visit here](https://www.archlinuxcn.org/archlinux-cn-repo-and-mirror/).
 中文介绍[请看这里](https://www.archlinuxcn.org/archlinux-cn-repo-and-mirror/)。
 
-### Usage
+### Usage11
 
 Add repo:
 
